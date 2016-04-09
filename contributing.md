@@ -2,7 +2,7 @@
 
 We're making it easy to do interesting things with git, and we'd love to have
 your help.
-
+----
 ## Licensing
 ----------------
 By contributing to libgit2, you agree to release your contribution under
