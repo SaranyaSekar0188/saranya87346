@@ -5,6 +5,7 @@ your help.
 
 ## Licensing
 ----------------
+=====================
 By contributing to libgit2, you agree to release your contribution under
 the terms of the license.  Except for the `examples` directory, all code
 is released under the [GPL v2 with linking exception](COPYING).
